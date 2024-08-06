@@ -1,0 +1,11 @@
+# Images for infographics
+images/
+
+# Data outputs
+processed_data/
+
+# Datasets
+raw_data/
+
+# Viz files
+tableau_files/
